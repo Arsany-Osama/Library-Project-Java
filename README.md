@@ -18,7 +18,7 @@
   <p align="center">
     A basic operations for the library managment system 
     <br />
-    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Arsany-Osama/Library-Project-Java/tree/master"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
@@ -31,7 +31,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#About-The-Project">About the Project</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -39,15 +38,8 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -57,9 +49,11 @@
 
 ## About The Project
 
-![Screenshot (196)](https://github.com/Arsany-Osama/Simple-Calculator-Java-/assets/160052013/9230275c-45af-40a7-96b7-27d3ee05e001)
-
 This is a simple Java-based calculator that supports basic arithmetic operations like addition, subtraction, multiplication, division, modulus, and factorial calculation.
+Add/Remove:
+![Screenshot (197)](https://github.com/Arsany-Osama/Library-Project-Java/assets/160052013/788fd150-8462-418d-a558-628357dc5456)
+Borrow or not/Search
+![Screenshot (198)](https://github.com/Arsany-Osama/Library-Project-Java/assets/160052013/d26d4b4c-a560-4b5f-ae85-3b6b48c08cee)
 
 ### Features:
 - Add Book
